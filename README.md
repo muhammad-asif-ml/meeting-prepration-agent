@@ -15,11 +15,3 @@ This assistant automatically generates **company context, industry insights, mee
 ---
 
 ## 📂 Project Structure
-
-meeting-prep-agent/
-│── app.py # Streamlit app (UI)
-│── workflow.py # LangGraph workflow logic
-│── agents.py # LLM + Search tool setup
-│── requirements.txt # Python dependencies
-│── .env.example # Example environment variables
-│── README.md # Project documentation
