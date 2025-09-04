@@ -12,6 +12,8 @@ This assistant automatically generates **company context, industry insights, mee
 - 📑 **Executive Brief** – Creates a polished one-page summary for stakeholders.  
 - 🚀 **Streamlit UI** – Simple, interactive web app to run the workflow.  
 
----
 
-## 📂 Project Structure
+
+
+
+
